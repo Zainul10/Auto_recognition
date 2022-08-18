@@ -3,3 +3,6 @@
 
 2. Code for feature 2
 *********************
+
+3. Code for feature 3
+*********************
